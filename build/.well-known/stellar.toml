@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDUX77SWF6UVHIXSCLV6YWEHFMMMVGAS2O2ZYGQIU3FV2NEM6GZ5SNVX",
+"GC4IIPSSKCRGGBVIR4GTVTDHLL3GVHC34OCRXXCE2N7OLP23YTZEWBRR",
 "GBMXEAHBWHGBTHWMU2UMRCA4YOCQ2EMKUY6NEXN5ZHMMW63HFL3TMPDC"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Stellar Musk"
-ORG_TWITTER="@MuskLumens"
-ORG_LOGO="https://i.ibb.co/fqnkDmq/musk.png"
+ORG_NAME="Stellar Gabe"
+ORG_TWITTER="@GABESTELLAR"
+ORG_LOGO="https://i.ibb.co/G533Kww/valve-gabe-newell-scaled.jpg"
 ORG_OFFICIAL_EMAIL="VoltLumens@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMMUSK"
+code="XLMGABE"
 issuer="GBMXEAHBWHGBTHWMU2UMRCA4YOCQ2EMKUY6NEXN5ZHMMW63HFL3TMPDC"
 anchor_asset="false"
-name="Stellar Musk"
-desc="Stellar Musk [XLMMUSK], is an entrepreneur and business magnate. He is the founder, CEO, and Chief Engineer at SpaceX; early stage investor,[note 1] CEO, and Product Architect of Tesla, Inc.; founder of The Boring Company; and co-founder of Neuralink and OpenAI. A centibillionaire, Musk is one of the richest people in the world.  "
-conditions="There will only ever be 5.000.000 XLMMUSK tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/fqnkDmq/musk.png"
-fixed_number=5000000
-max_number=5000000
+name="Stellar Gabe"
+desc="Stellar Gabe [XLMGABE], Newell is an American businessman and the co-founder and president of the video game developer and digital distribution company Valve  "
+conditions="There will only ever be 10.000.000 XLMMUSK tokens in honor and support of law enforcement Now and Fois an entrepreneur and business magnate. He is the founder, CEO, and Chief Engineerever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="hhttps://i.ibb.co/G533Kww/valve-gabe-newell-scaled.jpg"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#XLMMUSK was issued using the open and inclusive Stellar blockchain network.
+#XLMGABE was issued using the open and inclusive Stellar blockchain network.
